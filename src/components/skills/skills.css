@@ -1,0 +1,49 @@
+.skill{
+    
+    width: 100vw;
+    height: 250vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    gap: 2rem;
+    
+}
+.skillss{
+    /* color: red; */
+    /* margin-bottom: 10rem; */
+    font-size: 4rem;
+    /* background-color: black; */
+    margin-top: 4rem;
+    padding: 30px;
+    border-radius: 40px;
+    font-variant: small-caps;
+   
+}
+
+.first{
+    background-color: rgb(106, 80, 80);
+    height: 35vh;
+    width: 45rem;
+    display: flex;
+    justify-content: center;
+    
+    color: white;
+    gap: 8rem;
+    border-radius: 20px;
+    opacity: 80%;
+    
+}
+.lala{
+    font-size: 25px;
+    padding: 2rem;
+    text-align: center;
+    
+}
+.lalala{
+    
+    width: 500px;
+    height: 220px;
+    margin-right: 40px;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.notsocool{
+    padding: 3rem 0 ;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+}
+.footer_logo{
+    color: rgb(50, 50, 50);
+    font-size: 18px;
+    font-weight: 500;
+}
+.permalinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.8rem;
+    padding: 9px;
+}
+.footer_socials{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 9px;
+}

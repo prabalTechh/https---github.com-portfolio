@@ -1,0 +1,39 @@
+.Home{
+   
+    max-width: 50%;
+    margin: auto;
+    background-color: #fff;
+    top: 0;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 2rem;
+}
+.summary{
+   
+    justify-content: center;
+    padding: 100px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    line-height: 40px;
+ 
+}
+.summary_desc{
+    /* background-color: white; */
+    width: auto;
+}
+.links{
+    
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    margin: 2rem;
+    
+}
+.run{
+    font-size: 40px;
+    
+}
